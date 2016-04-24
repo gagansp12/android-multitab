@@ -1,0 +1,1 @@
+Multitab is to work like Bluetooth HID on Android. Currently it is implemented with RFCOMM socket. The goal is to implement Bluetooth HID emulator with L2CAP socket on Android.
